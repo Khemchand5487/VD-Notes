@@ -1,0 +1,7 @@
+pip install tkinter
+pip install imageio
+pip install pillow
+pip install moviepy
+pip install pygame
+pip install --upgrade "ibm-watson>=4.5.0"
+pip install pydub
