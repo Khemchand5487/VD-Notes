@@ -5,7 +5,7 @@ Convert video lectures into text notes
 2. `pip install imageio`
 3. `pip install pillow`
 4. `pip install moviepy`
-5. `pip install pygame=2.0.0.dev10`
+5. `pip install pygame==2.0.0.dev10`
 6. `pip install --upgrade "ibm-watson>=4.5.0"`
 7. `pip install pydub`
 
