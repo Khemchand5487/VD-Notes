@@ -12,5 +12,5 @@ Convert video lectures into text notes
 # Tutorial
 Watch tutorial on YouTube: https://youtu.be/Eq9cwJ2_uUs
 
-# Created by Khemchand
+# Created by Khem chand
 
